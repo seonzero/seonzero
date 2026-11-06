@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=👋%20Hello,%20I'm%20seonzero&animation=fadeIn&fontColor=000000&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🐹 기록하며 성장하는 데이터 엔지니어 & 백엔드 개발자 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 🌱 현재 SSAFY 14기 대전 캠퍼스에서 소프트웨어 엔지니어링 역량을 쌓고 있습니다.</li><li> 🔍 환경공학에서 시작해 데이터 사이언스를 거쳐, 이제는 견고한 데이터 파이프라인을 설계합니다.</li><li> ✍️ 기술의 역사와 Why를 중요하게 생각하며, 이를 https://dotorii.tistory.com/ 에 기록합니다. </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🐹 기록하며 성장... </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> ✍️ 기술의 역사와 Why를 중요하게 생각하며, 이를 https://dotorii.tistory.com/ 에 기록합니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
